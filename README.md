@@ -4,35 +4,30 @@
 ## 🔭 O que estudo/uso hoje
 
 <p align="center">
-  <!-- Tech Stack Badges -->
-  <img alt="HTML5"      src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="CSS3"       src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img alt="Python"     src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-
-  <img alt="Node.js"    src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img alt="Express"    src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img alt="Docker"     src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img alt="JWT"        src="https://img.shields.io/badge/JWT-000000?logo=json-web-token&logoColor=white&style=for-the-badge" />
-
-  <img alt="React"      src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img alt="Next.js"    src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img alt="Chart.js"   src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge" />
-
-  <img alt="Linux"      src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <!-- Social & Contact Buttons -->
-  <a href="https://www.linkedin.com/in/yuri-macedo-b67b4a21a/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <!-- Tech Stack Badges with download links -->
+  <a href="https://nodejs.org/pt-br/download/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/cmacedoyuri/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  <a href="https://www.docker.com/get-started" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:inframanager.yuri@gmail.com" target="_blank">
-    <img alt="Gmail"     src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  <a href="https://jwt.io/" target="_blank">
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?logo=json-web-token&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  </a>
+  <a href="https://nextjs.org/docs/getting-started" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://tailwindcss.com/docs/installation" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.chartjs.org/docs/latest/getting-started/" target="_blank">
+    <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linux.org/pages/download/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   </a>
 </p>
 
@@ -55,9 +50,21 @@
 3. Automação de tarefas diárias com GitHub Actions  
 
 ## 📫 Como me encontrar
-- 📧 inframanager.yuri@gmail.com  
-- 🔗 linkedin.com/in/yuri-macedo  
-- 🌐 em breve: yuri.example.com  
+
+<p align="center">
+  <a href="https://cmacedoyuri.github.io/portfolio-site/" target="_blank">
+    <img alt="Site Pessoal" src="https://img.shields.io/badge/Meu_Site-00B8D9?logo=html5&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/yuri-macedo-b67b4a21a/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/cmacedoyuri/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:inframanager.yuri@gmail.com" target="_blank">
+    <img alt="E-mail" src="https://img.shields.io/badge/E-mail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p> 
 
 ---
 
