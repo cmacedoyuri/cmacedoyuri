@@ -1,5 +1,22 @@
 # Olá 👋, eu sou o Yuri Macedo
 
+<!-- Tech Stack Badges -->
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://youtube.com/seu-canal"    target="_blank"><img alt="YouTube"   src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://instagram.com/seu-perfil" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://discord.gg/seu-link"      target="_blank"><img alt="Discord"   src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:inframanager.yuri@gmail.com" target="_blank"><img alt="Gmail"   src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/yuri-macedo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+</p>
+
 ![Snake animation](./output/github-contribution-grid-snake.svg)
 
 ## 🎓 Sobre mim
