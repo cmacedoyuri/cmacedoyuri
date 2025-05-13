@@ -64,7 +64,7 @@
   <a href="mailto:inframanager.yuri@gmail.com" target="_blank">
     <img alt="E-mail" src="https://img.shields.io/badge/E-mail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-</p> 
+</p>
 
 ---
 
