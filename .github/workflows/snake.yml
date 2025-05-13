@@ -1,0 +1,22 @@
+name: 🐍 Atualiza Snake no README
+on:
+  schedule:
+    - cron: '0 0 * * *'       # todo dia à meia-noite UTC
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Gera snake
+        uses: twolfson/github-contribution-grid-snake@v1
+        with:
+          output-path: output/github-contribution-grid-snake.svg
+      - name: Commit & Push
+        run: |
+          git config user.name "cmacedoyuri"
+          git config user.email "inframanager.yuri@gmail.com"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "🐍 Atualiza snake"
+          git push
